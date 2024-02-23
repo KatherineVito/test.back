@@ -1,0 +1,13 @@
+# Ignore public dni images from source code
+/resources/assets/images
+/node_modules
+/public/hot
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

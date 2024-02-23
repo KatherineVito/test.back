@@ -1,0 +1,4 @@
+"dni_number_pet","dni_type_pet","lastname_pet","name_pet","birthday_pet","date_enrollment_pet","date_issue_pet","date_expiry_pet","gender_pet","specie_type_pet","breed_pet","lastname_owner","name_owner","country_owner","cellphone_owner","email_owner","created_at"
+"11685572","free","Ninaquispe","Prueba","2009-10-11","2021-07-26","2021-05-25","2023-05-25","Macho","perro","Boxer","Ninaquispe Florez","Prueba David","","51985400951","pruebad@gmail.com","2021-07-21 09:44:00"
+"51685572","free","Ninaquispe","Campana","2007-10-11","2021-05-25","2021-05-25","2023-05-25","Hembra","perro","Ovejero","Ninaquispe Florez","Joseph David","","51985400951","joseph2019d@gmail.com","2021-08-31 09:44:14"
+"78206913","free","Hernandez","Lucas","2020-03-18","2021-03-21","2021-03-21","2023-03-21","Macho","gato","Ragdoll","Hernandez Florez","Miguel Juan","","51985400952","hernandezf@gmail.com","2021-08-17 16:44:15"
